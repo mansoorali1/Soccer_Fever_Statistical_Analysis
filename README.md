@@ -1,7 +1,7 @@
 # Soccer Fever Statistical Analysis
-In the electrifying realm of football, where every match holds the promise of excitement and unpredictability, fans eagerly invest their time to witness the drama unfold. This project explores the factors influencing match outcomes through hypothesis testing, including team strengths, match importance, and projected scores.
+In the electrifying realm of football, where every match holds the promise of excitement and unpredictability, fans eagerly invest their time to witness the drama unfold. This project explores the factors influencing match outcomes through hypothesis testing, including team strengths, match importance, and projected scores. Detailed analyses and findings can be found in the Jupyter Notebook "Football_Hypothesis_Testing.ipynb".
 ______________________________________________
-# Available Features
+## Available Features
 `season`: The season during which the match took place.
 
 `date`: The date of the match.
@@ -44,3 +44,8 @@ ______________________________________________
 
 `Outcome`: Match outcome (1 for home team win, 0 otherwise).
 
+## Data
+**https://machinehack.com/hackathons/soccer_fever_weekend_hackathon_edition_2_the_last_hacker_standing/overview**
+
+## References
+**https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/**
