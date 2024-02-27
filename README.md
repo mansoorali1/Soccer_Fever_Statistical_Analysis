@@ -1,7 +1,7 @@
 # Soccer Fever Statistical Analysis
 In the electrifying realm of football, where every match holds the promise of excitement and unpredictability, fans eagerly invest their time to witness the drama unfold. This project explores the factors influencing match outcomes through hypothesis testing, including team strengths, match importance, and projected scores.
 ______________________________________________
-Available Features
+# Available Features
 'season': The season during which the match took place.
 'date': The date of the match.
 'league_id': Unique identifier for the league.
