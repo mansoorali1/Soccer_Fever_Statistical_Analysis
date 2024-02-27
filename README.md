@@ -1,6 +1,6 @@
 # Soccer Fever Statistical Analysis
 In the electrifying realm of football, where every match holds the promise of excitement and unpredictability, fans eagerly invest their time to witness the drama unfold. This project explores the factors influencing match outcomes through hypothesis testing, including team strengths, match importance, and projected scores. Detailed analyses and findings can be found in the Jupyter Notebook "Football_Hypothesis_Testing.ipynb".
-______________________________________________
+
 ## Available Features
 `season`: The season during which the match took place.
 
